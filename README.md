@@ -10,8 +10,4 @@ A local multiplayer card game for iOS.
 - Spectator mode
 
 
-For support questions:
-pitbiren@gmail.com
-
-
 © 2025 BirenDigitals
